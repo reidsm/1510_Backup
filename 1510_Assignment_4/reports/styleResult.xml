@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.10">
+<file name="C:\Work\Workspace_2019-06\1510_Assignment_4\src\q1\Statistics.java">
+</file>
+<file name="C:\Work\Workspace_2019-06\1510_Assignment_4\src\q2\DrawStar.java">
+</file>
+<file name="C:\Work\Workspace_2019-06\1510_Assignment_4\src\q3\MIXChar.java">
+<error line="92" column="5" severity="warning" message="Executable statement count is 34 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="149" column="5" severity="warning" message="Executable statement count is 34 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="296" column="5" severity="warning" message="Executable statement count is 34 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+</file>
+<file name="C:\Work\Workspace_2019-06\1510_Assignment_4\src\q3\Message.java">
+<error line="22" column="24" severity="warning" message="Name &apos;BASE&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="27" column="24" severity="warning" message="Name &apos;FULL_PACK_SIZE&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="263" column="16" severity="warning" message="Name &apos;getFULL_PACK_SIZE&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+</file>
+<file name="C:\Work\Workspace_2019-06\1510_Assignment_4\src\q3\TestMIXChar.java">
+</file>
+</checkstyle>
