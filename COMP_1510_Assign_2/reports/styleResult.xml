@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.10">
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q1\PhoneNumbers.java">
+<error line="19" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q2\CylinderStats.java">
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q3\Cylinder.java">
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q3\MultiCylinder.java">
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q4\Box.java">
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q4\BoxTest.java">
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q5\Email.java">
+</file>
+<file name="C:\Users\reids\OneDrive\Documents\Misc Java Projects\COMP_1510_Assign_2\src\q5\EmailPane.java">
+</file>
+</checkstyle>
